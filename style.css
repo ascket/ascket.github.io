@@ -1,0 +1,192 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url(header-backgroudn.jpg);
+	font: 10pt Arial, Helvetica, sans-serif;
+}
+
+.header {
+	background-color: rgba(49, 54, 79, 0.6);
+	position: fixed;
+	margin: 0 auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999;
+}
+
+.terdf {
+	width: 1168px;
+	margin: 0 auto;
+	top: 0;
+	left: 0;
+	right: 0;
+
+}
+
+.content {
+	margin: 0 auto;
+	width: 1168px;
+	text-align: left;
+}
+
+.menu {
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.first-child {
+	display: inline-block;
+	color: white;
+	font-weight: 700;
+	padding-left: 30px;
+	margin: 30px 0px;
+}
+
+.logo {
+	position: absolute;
+	top: 25px;
+	width: 170px;
+}
+
+hr {
+    border: none;
+    color: #66697E;
+    background-color: #66697E;
+    height: 1px;
+}
+
+.second {
+	width: 650px;
+	text-align: center;
+	margin: 150px auto;
+}
+
+h1 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: 700;
+	font-size: 40px;
+}
+
+.second p {
+	color: white;
+	font-size: 18px;
+	padding-top: 25px;
+	padding-bottom: 60px;
+}
+
+.button {
+	text-transform: uppercase;
+	width: 120px;
+	background-color: #E84545;
+	text-align: center;
+	padding: 15px;
+	margin: 0 auto;
+	color: white;
+	font-size: 12px;
+	
+}
+
+.right {
+	position: absolute;
+	right:0;
+  	top:600px;
+    left:0;
+	height: 650px;
+	background-color: white;
+}
+
+.third {
+	margin: 100px auto;
+	margin-bottom: -20px;
+	width: 1168px;
+	text-align: center;
+}
+
+.second-child {
+	display: inline-block;
+	width: 320px;
+	vertical-align: top;
+}
+
+.second-child-1 {
+	text-transform: uppercase;
+	padding: 20px 0 10px 0;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.second-child-1~div {
+	padding: 10px 0 10px 0;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.bild {
+	position: absolute;
+	right:0;
+  	top:1250px;
+    left:0;
+}
+
+.bild img {
+	width: 25%;
+	float: left;
+	border: 0.5px solid white;
+	box-sizing: border-box;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.footer {
+	position: absolute;
+	right:0;
+  	top:1755px;
+    left:0;
+	height: 250px;
+	background-color: #3A3E64;
+}
+
+.vier {
+	margin: 70px auto;
+	margin-bottom: -20px;
+	width: 1168px;
+	text-align: center;
+}
+
+.vier-child {
+	display: inline-block;
+	width: 130px;
+	vertical-align: top;
+}
+
+.vier-child-1 {
+	text-transform: uppercase;
+	color: white;
+	font-size: 12px;
+	font-weight: 900;
+	padding: 20px 0 20px 0;
+}
+
+.vier-child-2 {
+	color: white;
+	font-size: 11px;
+}
+
+.vier-child img {
+	width: 25px;
+	border: 1px solid white;
+
+}
+
+.vier--ger {
+	color: yellow;
+}
